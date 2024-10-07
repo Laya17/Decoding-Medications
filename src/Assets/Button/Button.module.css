@@ -1,0 +1,8 @@
+.defaultbutton {
+  height: 50px;
+  width: 300px;
+  border-radius: 40px;
+  color: #199a8e;
+  border: 0px;
+  font-size: medium;
+}

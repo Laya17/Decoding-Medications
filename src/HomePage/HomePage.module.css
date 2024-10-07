@@ -1,0 +1,75 @@
+.HomePageContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.TitleCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.heading {
+  font-size: 22px;
+  font-family: math;
+  width: 68%;
+}
+
+.inputbox {
+  width: 90%;
+  border-radius: 30px;
+  height: 40px;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  align-self: center;
+  border: 1px solid #adadad;
+  margin: 17px;
+}
+
+.NavigationsContainer {
+  display: flex;
+  margin: 15px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.NavElements {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigateName {
+  color: #a1a8b0;
+}
+
+.AdCard {
+  background-color: #e8f3f1;
+  display: flex;
+  height: 150px;
+  margin: 10px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.Adheading {
+  font-size: 25px;
+  font-style: inherit;
+  font-weight: normal;
+}
+
+.ScanButton {
+  background-color: #199a8e;
+  color: white;
+  width: 250px;
+}
+
+.DoctorImage {
+  position: relative;
+  right: -30px;
+}
